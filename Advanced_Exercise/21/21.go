@@ -18,19 +18,16 @@ const (
 )
 
 func CalculateDistance(Movement Movements, currentPos []int) []int {
-	switch Movement.Direction  {
-	case  UP:
+	switch Movement.Direction {
+	case UP:
 		currentPos[1] += Movement.Step
-		break;
-	case  DOWN:
+	case DOWN:
 		currentPos[1] -= Movement.Step
-		break;
-	case  LEFT:
+	case LEFT:
 		currentPos[0] -= Movement.Step
-		break;
-	case  RIGHT:
+	case RIGHT:
 		currentPos[0] += Movement.Step
-		break;
+
 	}
 
 	return currentPos
@@ -43,11 +40,10 @@ func main() {
 		{DOWN, 3},
 		{LEFT, 3},
 		{RIGHT, 2},
-		
 	}
 
 	finalPosition := []int{
-		0,0,
+		0, 0,
 	}
 
 	for i := 0; i < len(movements); i++ {
