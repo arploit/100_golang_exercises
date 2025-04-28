@@ -22,7 +22,6 @@ func WrdFrequency(sentence string) map[string]int {
 }
 
 func PrintFrequency(sentence string, freqMap map[string]int) {
-
 	for _, char := range sentence {
 		fmt.Println(string(char), freqMap[string(char)]) //, freqMap[rune(char)])
 	}
