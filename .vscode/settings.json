@@ -1,4 +1,6 @@
 {
     "editor.codeActions.triggerOnFocusChange": true,
-    "editor.autoIndent": "full"
+    "editor.autoIndent": "full",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
 }
