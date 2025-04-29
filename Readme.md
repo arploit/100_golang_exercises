@@ -93,14 +93,14 @@ The following exercises have been completed:
 
 ### Intermediate
 
-✅ Exercise 6
-✅ Exercise 13 
+- ✅ Exercise 6
+- ✅ Exercise 13 
 
 ### Hard
 
-✅ Exercise 18
-✅ Exercise 19
-✅ Exercise 21 
+- ✅ Exercise 18
+- ✅ Exercise 19
+- ✅ Exercise 21 
 
 
 ## For DSA Exercise
@@ -111,7 +111,8 @@ The following exercises have been completed:
 
 #### Easy
 
-✅ Exercise 26 - Leetcode
+-✅ Exercise 26 - Leetcode
+-✅ 
 
 #### Med
 
