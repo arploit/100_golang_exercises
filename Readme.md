@@ -103,10 +103,8 @@ The following exercises have been completed:
 - ✅ Exercise 21 
 
 
-## For DSA Exercise
-[Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
+## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
 
----
 ### Arrays
 
 #### Easy
