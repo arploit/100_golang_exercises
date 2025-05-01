@@ -110,9 +110,10 @@ The following exercises have been completed:
 #### Easy
 
 -✅ Exercise 26 - Leetcode
--✅ 
 
 #### Med
+
+-✅ Exercise 36 - Leetcode
 
 #### Hard
 
