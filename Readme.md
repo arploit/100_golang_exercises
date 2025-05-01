@@ -105,7 +105,7 @@ The following exercises have been completed:
 
 ## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
 
-### Arrays
+### [Arrays](https://leetcode.com/problem-list/array/) 
 
 #### Easy
 
