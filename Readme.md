@@ -114,6 +114,7 @@ The following exercises have been completed:
 #### Med
 
 -✅ Exercise 36 - Leetcode
+-✅ Exercise 39 -  Combination Sum //Revisit
 
 #### Hard
 
