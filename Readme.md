@@ -115,10 +115,15 @@ The following exercises have been completed:
 
 - ✅ Exercise 36 - Leetcode
 - ✅ Exercise 39 -  Combination Sum //Revisit
-- 🛠️ Exercise 56 -  Combination Sum //In-progress
+- 🛠️ Exercise 56 -  Combination Sum //In-progress 
+
+
 
 
 #### Hard
+
+- ✅ Exercise 42 - Trapping in rain water
+
 
 ---
 
