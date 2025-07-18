@@ -1,4 +1,3 @@
-
 ---
 
 # 100 Golang Exercises
@@ -12,7 +11,14 @@ This repository is structured to offer a progressive learning experience, coveri
 ## 📁 Repository Structure
 
 - **DSA/**: Contains exercises related to Data Structures and Algorithms.
+  - **Array/**: Array-based problems (Easy, Medium, Hard)
+  - **TwoPointer/**: Two-pointer technique problems
+  - **Linklist/**: Linked list implementation and problems
 - **GolangExercise/**: General Go language exercises focusing on syntax, functions, and standard libraries.
+  - **intermediate_exercise/**: Intermediate level Go exercises
+  - **Advanced_Exercise/**: Advanced level Go exercises
+- **Go_Scripts/**: Utility scripts for project management
+- **scripts/**: Additional helper scripts
 - **.vscode/**: Configuration files for Visual Studio Code to streamline development.
 - **go.mod**: Module definition for dependency management.
 - **image.png**: Visual representation or diagram related to the exercises.
@@ -93,14 +99,18 @@ The following exercises have been completed:
 
 ### Intermediate
 
-- ✅ Exercise 6
-- ✅ Exercise 13 
+- ✅ Exercise 6 - Ex-06
+- ✅ Exercise 7 - Problem 07
+- ✅ Exercise 8 - Problem 08
+- ✅ Exercise 10 - Problem 10
+- ✅ Exercise 13 - Ex-13
 
-### Hard
+### Advanced
 
-- ✅ Exercise 18
-- ✅ Exercise 19
-- ✅ Exercise 21 
+- ✅ Exercise 18 - Problem 18
+- ✅ Exercise 19 - Problem 19
+- ✅ Exercise 21 - Problem 21
+- ✅ Exercise 22 - Problem 22
 
 
 ## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
@@ -109,31 +119,42 @@ The following exercises have been completed:
 
 #### Easy
 
--✅ Exercise 26 - Leetcode
+- ✅ Exercise 26 - Remove Duplicates from Sorted Array
 
-#### Med
+#### Medium
 
-- ✅ Exercise 36 - Leetcode
-- ✅ Exercise 39 -  Combination Sum //Revisit
-- 🛠️ Exercise 56 -  Combination Sum //In-progress 
-
-
-
+- ✅ Exercise 36 - Valid Sudoku
+- ✅ Exercise 39 - Combination Sum
+- ✅ Exercise 46 - Permutations
+- ✅ Exercise 56 - Merge Intervals
 
 #### Hard
 
-- ✅ Exercise 42 - Trapping in rain water
-
+- ✅ Exercise 42 - Trapping Rain Water
 
 ---
 
-### Two Pointer
+### [Two Pointer](https://leetcode.com/tag/two-pointers/)
 
 #### Easy
 
-#### Med
+- ✅ Exercise 27 - Remove Element
+- ✅ Exercise 82 - Remove Duplicates from Sorted List II
+- ✅ Exercise 557 - Reverse Words in a String III
+- ✅ Exercise 832 - Flipping an Image
+- ✅ Exercise 2511 - Maximum Enemy Forts That Can Be Captured
+
+#### Medium
 
 #### Hard
+
+---
+
+### [Linked List](https://leetcode.com/tag/linked-list/)
+
+#### Easy
+
+- ✅ Linked List Implementation - Basic implementation and operations
 
 
 *Note: The checkmarks indicate completed exercises. The numbering corresponds to the exercise identifiers within the repository.*
