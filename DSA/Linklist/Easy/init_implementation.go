@@ -57,13 +57,14 @@ func main() {
 	myList.insert(30)
 
 	myList.print()
-	fmt.Println("After deleting node:")
-	
+
 	// To use deleteNode, you need to pass a specific node
 	// Let's delete the second node (value 20)
-	nodeToDelete := myList.head.next // This is the node with value 20
-	deleteNode(nodeToDelete)
+	myList.length()
 
+	nodeToDelete := myList.head.next // This is the node with value 20
+	fmt.Println("After deleting node:")
+	deleteNode(nodeToDelete)
 	myList.print()
 
 }
