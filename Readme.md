@@ -155,6 +155,8 @@ The following exercises have been completed:
 #### Easy
 
 - ✅ Linked List Implementation - Basic implementation and operations
+- ✅ Doubly Link List Implementation - Basic implementation and operations
+
 
 
 *Note: The checkmarks indicate completed exercises. The numbering corresponds to the exercise identifiers within the repository.*
