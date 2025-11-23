@@ -69,20 +69,34 @@ func (l *DDList) deleteNode(value int) {
 
 }
 
+func (l *DDList) reverseList() {
+	currentNode := l.head
+	var prev *Node = nil
+
+	for currentNode != nil {
+
+		nextNode := currentNode.next
+		currentNode.next = prev
+		currentNode.prev = nextNode
+
+		prev = currentNode
+		currentNode = nextNode
+	}
+
+	l.head = prev
+
+}
+
 func main() {
 
 	newNode := &Node{data: 12}
 	DDList := &DDList{head: newNode}
 
 	DDList.insert(20)
-	DDList.print()
-	DDList.deleteNode(20)
 	DDList.insert(30)
 	DDList.insert(40)
 	DDList.insert(50)
-
 	DDList.print()
-
-	DDList.deleteNode(40)
+	DDList.reverseList()
 	DDList.print()
 }
