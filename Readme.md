@@ -146,7 +146,24 @@ The following exercises have been completed:
 
 #### Medium
 
+- ✅ Exercise 11 - Container With Most Water
+- ✅ Exercise 15 - 3Sum
+- ✅ Exercise 167 - Two Sum II - Input array is sorted
+
 #### Hard
+
+- ✅ Exercise 42 - Trapping Rain Water
+
+
+### [Recursion](https://leetcode.com/tag/recursion/)
+
+#### Medium
+
+- ✅ Exercise 8 - (Recursion problem)
+- ✅ Exercise 22 - (Generate Parentheses)
+- ✅ Exercise 50 - (Pow(x, n))
+- ✅ Exercise 1992 - (Find All Groups of Farmland)
+
 
 ---
 
@@ -154,8 +171,15 @@ The following exercises have been completed:
 
 #### Easy
 
+- ✅ Exercise 237 - Delete Node in a Linked List
 - ✅ Linked List Implementation - Basic implementation and operations
 - ✅ Doubly Link List Implementation - Basic implementation and operations
+- ✅ Doubly Linked List (DDL)
+
+#### Medium
+
+- ✅ Exercise 141 - Linked List Cycle
+- ✅ Exercise 876 - Middle of the Linked List
 
 
 
