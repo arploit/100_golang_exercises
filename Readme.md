@@ -181,6 +181,30 @@ The following exercises have been completed:
 - ✅ Exercise 141 - Linked List Cycle
 - ✅ Exercise 876 - Middle of the Linked List
 
+---
+
+### [Sliding Window](https://leetcode.com/tag/sliding-window/)
+
+#### Easy
+
+- ✅ Exercise 121 - Best Time to Buy and Sell Stock
+
+
+### [Stack](https://leetcode.com/tag/stack/)
+
+#### Medium
+
+- ✅ Exercise 155 - Min Stack
+- ✅ Exercise 853 - Car Fleet
+- ✅ Exercise 150 - Evaluate Reverse Polish Notation
+- ✅ Exercise 739 - Daily Temperatures
+
+
+### [Graph](https://leetcode.com/tag/graph/)
+
+#### Easy
+
+- ✅ Undirected Path - (Find if Path Exists in Graph) - `undirectedPath.go`
 
 
 *Note: The checkmarks indicate completed exercises. The numbering corresponds to the exercise identifiers within the repository.*
