@@ -112,10 +112,13 @@ The following exercises have been completed:
 - ✅ Exercise 21 - Problem 21
 - ✅ Exercise 22 - Problem 22
 
+- ✅ Overall problems solved: 74
 
 ## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
 
-### [Arrays](https://leetcode.com/problem-list/array/) 
+The following exercises have been completed (mapped from files under `DSA/`):
+
+### [Arrays](https://leetcode.com/problem-list/array/)
 
 #### Easy
 
@@ -152,34 +155,7 @@ The following exercises have been completed:
 
 #### Hard
 
-- ✅ Exercise 42 - Trapping Rain Water
-
-
-### [Recursion](https://leetcode.com/tag/recursion/)
-
-#### Medium
-
-- ✅ Exercise 8 - (Recursion problem)
-- ✅ Exercise 22 - (Generate Parentheses)
-- ✅ Exercise 50 - (Pow(x, n))
-- ✅ Exercise 1992 - (Find All Groups of Farmland)
-
-
----
-
-### [Linked List](https://leetcode.com/tag/linked-list/)
-
-#### Easy
-
-- ✅ Exercise 237 - Delete Node in a Linked List
-- ✅ Linked List Implementation - Basic implementation and operations
-- ✅ Doubly Link List Implementation - Basic implementation and operations
-- ✅ Doubly Linked List (DDL)
-
-#### Medium
-
-- ✅ Exercise 141 - Linked List Cycle
-- ✅ Exercise 876 - Middle of the Linked List
+- ✅ Exercise 42 - Trapping Rain Water (file in `DSA/TwoPointer/Hard/42`)
 
 ---
 
@@ -189,16 +165,67 @@ The following exercises have been completed:
 
 - ✅ Exercise 121 - Best Time to Buy and Sell Stock
 
+#### Medium
+
+- ✅ Exercise 3 - Longest Substring Without Repeating Characters
+- ✅ Exercise 424 - Longest Repeating Character Replacement
+- ✅ Exercise 567 - Permutation in String
+
+#### Hard
+
+- ✅ Exercise 76 - Minimum Window Substring
+- ✅ Exercise 239 - Sliding Window Maximum
+
+---
 
 ### [Stack](https://leetcode.com/tag/stack/)
 
+#### Easy
+
+- (no Easy-level stack files detected)
+
 #### Medium
 
-- ✅ Exercise 155 - Min Stack
-- ✅ Exercise 853 - Car Fleet
 - ✅ Exercise 150 - Evaluate Reverse Polish Notation
+- ✅ Exercise 155 - Min Stack
 - ✅ Exercise 739 - Daily Temperatures
+- ✅ Exercise 853 - Car Fleet
 
+#### Hard
+
+- ✅ Exercise 84 - Largest Rectangle in Histogram
+
+---
+
+### [Recursion](https://leetcode.com/tag/recursion/)
+
+#### Medium
+
+- ✅ Exercise 8 - (Recursion problem)
+- ✅ Exercise 22 - Generate Parentheses
+- ✅ Exercise 50 - Pow(x, n)
+- ✅ Exercise 1992 - Find All Groups of Farmland
+
+---
+
+### [Linked List](https://leetcode.com/tag/linked-list/)
+
+#### Easy
+
+- ✅ Exercise 237 - Delete Node in a Linked List
+- ✅ Linked List Implementation - Basic implementation and operations (`init_implementation.go`, `Linklist.md`)
+- ✅ Doubly Linked List (DDL) - (`DSA/Linklist/Easy/DDL`)
+
+#### Medium
+
+- ✅ Exercise 141 - Linked List Cycle
+- ✅ Exercise 876 - Middle of the Linked List
+
+#### Hard
+
+- ✅ Exercise 25 - Reverse Nodes in k-Group
+
+---
 
 ### [Graph](https://leetcode.com/tag/graph/)
 
