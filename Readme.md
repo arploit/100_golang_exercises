@@ -99,20 +99,20 @@ The following exercises have been completed:
 
 ### Intermediate
 
-- ✅ Exercise 6 - Ex-06
-- ✅ Exercise 7 - Problem 07
-- ✅ Exercise 8 - Problem 08
-- ✅ Exercise 10 - Problem 10
-- ✅ Exercise 13 - Ex-13
+- ✅ Exercise 6 - Ex-06 - [GolangExercise/intermediate_exercise/Ex-06/main.go](GolangExercise/intermediate_exercise/Ex-06/main.go)
+- ✅ Exercise 7 - Problem 07 - [GolangExercise/intermediate_exercise/07/07.go](GolangExercise/intermediate_exercise/07/07.go)
+- ✅ Exercise 8 - Problem 08 - [GolangExercise/intermediate_exercise/08/08.go](GolangExercise/intermediate_exercise/08/08.go)
+- ✅ Exercise 10 - Problem 10 - [GolangExercise/intermediate_exercise/10/10.go](GolangExercise/intermediate_exercise/10/10.go)
+- ✅ Exercise 13 - Ex-13 - [GolangExercise/intermediate_exercise/Ex-13/main.go](GolangExercise/intermediate_exercise/Ex-13/main.go)
 
 ### Advanced
 
-- ✅ Exercise 18 - Problem 18
-- ✅ Exercise 19 - Problem 19
-- ✅ Exercise 21 - Problem 21
-- ✅ Exercise 22 - Problem 22
+- ✅ Exercise 18 - Problem 18 - [GolangExercise/Advanced_Exercise/18/main.go](GolangExercise/Advanced_Exercise/18/main.go)
+- ✅ Exercise 19 - Problem 19 - [GolangExercise/Advanced_Exercise/19/19.go](GolangExercise/Advanced_Exercise/19/19.go)
+- ✅ Exercise 21 - Problem 21 - [GolangExercise/Advanced_Exercise/21/21.go](GolangExercise/Advanced_Exercise/21/21.go)
+- ✅ Exercise 22 - Problem 22 - [GolangExercise/Advanced_Exercise/22/22.go](GolangExercise/Advanced_Exercise/22/22.go)
 
-- ✅ Overall problems solved: 74
+## ✅ Overall problems solved: 51 (DSA total: 42 — Easy: 12, Medium: 24, Hard: 6; Golang exercises: 9)
 
 ## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
 
@@ -122,18 +122,18 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
-- ✅ Exercise 26 - Remove Duplicates from Sorted Array
+- ✅ Exercise 26 - Remove Duplicates from Sorted Array - [DSA/Array/Easy/26/26.go](DSA/Array/Easy/26/26.go)
 
 #### Medium
 
-- ✅ Exercise 36 - Valid Sudoku
-- ✅ Exercise 39 - Combination Sum
-- ✅ Exercise 46 - Permutations
-- ✅ Exercise 56 - Merge Intervals
+- ✅ Exercise 36 - Valid Sudoku - [DSA/Array/Med/36/36.go](DSA/Array/Med/36/36.go)
+- ✅ Exercise 39 - Combination Sum - [DSA/Array/Med/39/39.go](DSA/Array/Med/39/39.go)
+- ✅ Exercise 46 - Permutations - [DSA/Array/Med/46/46.go](DSA/Array/Med/46/46.go)
+- ✅ Exercise 56 - Merge Intervals - [DSA/Array/Med/56/56.go](DSA/Array/Med/56/56.go)
 
 #### Hard
 
-- ✅ Exercise 42 - Trapping Rain Water
+- ✅ Exercise 42 - Trapping Rain Water - [DSA/Array/Hard/42/42.go](DSA/Array/Hard/42/42.go)
 
 ---
 
@@ -141,21 +141,21 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
-- ✅ Exercise 27 - Remove Element
-- ✅ Exercise 82 - Remove Duplicates from Sorted List II
-- ✅ Exercise 557 - Reverse Words in a String III
-- ✅ Exercise 832 - Flipping an Image
-- ✅ Exercise 2511 - Maximum Enemy Forts That Can Be Captured
+- ✅ Exercise 27 - Remove Element - [DSA/TwoPointer/Easy/27/27.go](DSA/TwoPointer/Easy/27/27.go)
+- ✅ Exercise 82 - Remove Duplicates from Sorted List II - [DSA/TwoPointer/Easy/82/82.go](DSA/TwoPointer/Easy/82/82.go)
+- ✅ Exercise 557 - Reverse Words in a String III - [DSA/TwoPointer/Easy/557/557.go](DSA/TwoPointer/Easy/557/557.go)
+- ✅ Exercise 832 - Flipping an Image - [DSA/TwoPointer/Easy/832/832.go](DSA/TwoPointer/Easy/832/832.go)
+- ✅ Exercise 2511 - Maximum Enemy Forts That Can Be Captured - [DSA/TwoPointer/Easy/2511.go](DSA/TwoPointer/Easy/2511.go)
 
 #### Medium
 
-- ✅ Exercise 11 - Container With Most Water
-- ✅ Exercise 15 - 3Sum
-- ✅ Exercise 167 - Two Sum II - Input array is sorted
+- ✅ Exercise 11 - Container With Most Water - [DSA/TwoPointer/Med/11/11.go](DSA/TwoPointer/Med/11/11.go)
+- ✅ Exercise 15 - 3Sum - [DSA/TwoPointer/Med/15/15.go](DSA/TwoPointer/Med/15/15.go)
+- ✅ Exercise 167 - Two Sum II - Input array is sorted - [DSA/TwoPointer/Med/167.go](DSA/TwoPointer/Med/167.go)
 
 #### Hard
 
-- ✅ Exercise 42 - Trapping Rain Water (file in `DSA/TwoPointer/Hard/42`)
+- ✅ Exercise 42 - Trapping Rain Water - [DSA/TwoPointer/Hard/42/42.go](DSA/TwoPointer/Hard/42/42.go)
 
 ---
 
@@ -163,18 +163,18 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
-- ✅ Exercise 121 - Best Time to Buy and Sell Stock
+- ✅ Exercise 121 - Best Time to Buy and Sell Stock - [DSA/Sliding_Window/Easy/121/121.go](DSA/Sliding_Window/Easy/121/121.go)
 
 #### Medium
 
-- ✅ Exercise 3 - Longest Substring Without Repeating Characters
-- ✅ Exercise 424 - Longest Repeating Character Replacement
-- ✅ Exercise 567 - Permutation in String
+- ✅ Exercise 3 - Longest Substring Without Repeating Characters - [DSA/Sliding_Window/Med/3/3.go](DSA/Sliding_Window/Med/3/3.go)
+- ✅ Exercise 424 - Longest Repeating Character Replacement - [DSA/Sliding_Window/Med/424/424.go](DSA/Sliding_Window/Med/424/424.go)
+- ✅ Exercise 567 - Permutation in String - [DSA/Sliding_Window/Med/567/567.go](DSA/Sliding_Window/Med/567/567.go)
 
 #### Hard
 
-- ✅ Exercise 76 - Minimum Window Substring
-- ✅ Exercise 239 - Sliding Window Maximum
+- ✅ Exercise 76 - Minimum Window Substring - [DSA/Sliding_Window/Hard/76/76.go](DSA/Sliding_Window/Hard/76/76.go)
+- ✅ Exercise 239 - Sliding Window Maximum - [DSA/Sliding_Window/Hard/239/239.go](DSA/Sliding_Window/Hard/239/239.go)
 
 ---
 
@@ -186,14 +186,14 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Medium
 
-- ✅ Exercise 150 - Evaluate Reverse Polish Notation
-- ✅ Exercise 155 - Min Stack
-- ✅ Exercise 739 - Daily Temperatures
-- ✅ Exercise 853 - Car Fleet
+- ✅ Exercise 150 - Evaluate Reverse Polish Notation - [DSA/Stack/Med/150/150.go](DSA/Stack/Med/150/150.go)
+- ✅ Exercise 155 - Min Stack - [DSA/Stack/Med/155/155.go](DSA/Stack/Med/155/155.go)
+- ✅ Exercise 739 - Daily Temperatures - [DSA/Stack/Med/739/739.go](DSA/Stack/Med/739/739.go)
+- ✅ Exercise 853 - Car Fleet - [DSA/Stack/Med/853/853.go](DSA/Stack/Med/853/853.go)
 
 #### Hard
 
-- ✅ Exercise 84 - Largest Rectangle in Histogram
+- ✅ Exercise 84 - Largest Rectangle in Histogram - [DSA/Stack/Hard/84/84.go](DSA/Stack/Hard/84/84.go)
 
 ---
 
@@ -201,10 +201,10 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Medium
 
-- ✅ Exercise 8 - (Recursion problem)
-- ✅ Exercise 22 - Generate Parentheses
-- ✅ Exercise 50 - Pow(x, n)
-- ✅ Exercise 1992 - Find All Groups of Farmland
+- ✅ Exercise 8 - (Recursion problem) - [DSA/Recursion/Med/8.go](DSA/Recursion/Med/8.go)
+- ✅ Exercise 22 - Generate Parentheses - [DSA/Recursion/Med/22.go](DSA/Recursion/Med/22.go)
+- ✅ Exercise 50 - Pow(x, n) - [DSA/Recursion/Med/50.go](DSA/Recursion/Med/50.go)
+- ✅ Exercise 1992 - Find All Groups of Farmland - [DSA/Recursion/Med/1992.go](DSA/Recursion/Med/1992.go)
 
 ---
 
@@ -212,18 +212,18 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
-- ✅ Exercise 237 - Delete Node in a Linked List
-- ✅ Linked List Implementation - Basic implementation and operations (`init_implementation.go`, `Linklist.md`)
-- ✅ Doubly Linked List (DDL) - (`DSA/Linklist/Easy/DDL`)
+- ✅ Exercise 237 - Delete Node in a Linked List - [DSA/Linklist/Easy/237.go](DSA/Linklist/Easy/237.go)
+- ✅ Linked List Implementation - Basic implementation and operations - [DSA/Linklist/Easy/init_implementation.go](DSA/Linklist/Easy/init_implementation.go), [DSA/Linklist/Easy/Linklist.md](DSA/Linklist/Easy/Linklist.md)
+- ✅ Doubly Linked List (DDL) - [DSA/Linklist/Easy/DDL/DDL.go](DSA/Linklist/Easy/DDL/DDL.go)
 
 #### Medium
 
-- ✅ Exercise 141 - Linked List Cycle
-- ✅ Exercise 876 - Middle of the Linked List
+- ✅ Exercise 141 - Linked List Cycle - [DSA/Linklist/Med/141.go](DSA/Linklist/Med/141.go)
+- ✅ Exercise 876 - Middle of the Linked List - [DSA/Linklist/Med/876/876.go](DSA/Linklist/Med/876/876.go)
 
 #### Hard
 
-- ✅ Exercise 25 - Reverse Nodes in k-Group
+- ✅ Exercise 25 - Reverse Nodes in k-Group - [DSA/Linklist/Hard/25/25.go](DSA/Linklist/Hard/25/25.go)
 
 ---
 
@@ -231,8 +231,31 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
-- ✅ Undirected Path - (Find if Path Exists in Graph) - `undirectedPath.go`
+- ✅ Undirected Path - (Find if Path Exists in Graph) - [DSA/Graph/Easy/undirectedPath.go](DSA/Graph/Easy/undirectedPath.go)
 
+---
+
+### [Binary Search](https://leetcode.com/tag/binary-search/)
+
+#### Easy
+
+- ✅ Exercise 704 - Binary Search - [DSA/BinarySearch/Easy/704/704.go](DSA/BinarySearch/Easy/704/704.go)
+
+#### Medium
+
+- ✅ Exercise 33 - Search in Rotated Sorted Array - [DSA/BinarySearch/Med/33/33.go](DSA/BinarySearch/Med/33/33.go)
+- ✅ Exercise 74 - Search a 2D Matrix - [DSA/BinarySearch/Med/74/74.go](DSA/BinarySearch/Med/74/74.go)
+- ✅ Exercise 153 - Find Minimum in Rotated Sorted Array - [DSA/BinarySearch/Med/153/153.go](DSA/BinarySearch/Med/153/153.go)
+- ✅ Exercise 875 - Koko Eating Bananas - [DSA/BinarySearch/Med/875/875.go](DSA/BinarySearch/Med/875/875.go)
+
+---
+
+### Utilities
+
+- [scripts/getunstage.go](scripts/getunstage.go) - helper script to manage git unstaged files
+- [Go_Scripts/getUnstaged.go](Go_Scripts/getUnstaged.go) - alternate helper script
+
+---
 
 *Note: The checkmarks indicate completed exercises. The numbering corresponds to the exercise identifiers within the repository.*
 
