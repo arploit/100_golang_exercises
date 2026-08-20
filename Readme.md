@@ -112,7 +112,9 @@ The following exercises have been completed:
 - ✅ Exercise 21 - Problem 21 - [GolangExercise/Advanced_Exercise/21/21.go](GolangExercise/Advanced_Exercise/21/21.go)
 - ✅ Exercise 22 - Problem 22 - [GolangExercise/Advanced_Exercise/22/22.go](GolangExercise/Advanced_Exercise/22/22.go)
 
-## ✅ Overall problems solved: 51 (DSA total: 42 — Easy: 12, Medium: 24, Hard: 6; Golang exercises: 9)
+## ✅ Overall problems solved: 56 (DSA problems: 47 — Easy: 15, Medium: 25, Hard: 7; Golang exercises: 9)
+
+The DSA collection also includes two linked-list implementation exercises: a singly linked list implementation and a doubly linked list implementation.
 
 ## For DSA Exercise [Solving Problem From: LeetCode 📕](https://leetcode.com/problem-list)
 
@@ -219,6 +221,7 @@ The following exercises have been completed (mapped from files under `DSA/`):
 #### Medium
 
 - ✅ Exercise 141 - Linked List Cycle - [DSA/Linklist/Med/141.go](DSA/Linklist/Med/141.go)
+- ✅ Exercise 287 - Find the Duplicate Number - [DSA/Linklist/Med/287/287.go](DSA/Linklist/Med/287/287.go)
 - ✅ Exercise 876 - Middle of the Linked List - [DSA/Linklist/Med/876/876.go](DSA/Linklist/Med/876/876.go)
 
 #### Hard
@@ -247,6 +250,22 @@ The following exercises have been completed (mapped from files under `DSA/`):
 - ✅ Exercise 74 - Search a 2D Matrix - [DSA/BinarySearch/Med/74/74.go](DSA/BinarySearch/Med/74/74.go)
 - ✅ Exercise 153 - Find Minimum in Rotated Sorted Array - [DSA/BinarySearch/Med/153/153.go](DSA/BinarySearch/Med/153/153.go)
 - ✅ Exercise 875 - Koko Eating Bananas - [DSA/BinarySearch/Med/875/875.go](DSA/BinarySearch/Med/875/875.go)
+- ✅ Exercise 981 - Time Based Key-Value Store - [DSA/BinarySearch/Med/981/981.go](DSA/BinarySearch/Med/981/981.go)
+
+#### Hard
+
+- ✅ Exercise 4 - Median of Two Sorted Arrays - [DSA/BinarySearch/Hard/4/4.go](DSA/BinarySearch/Hard/4/4.go)
+
+---
+
+### [Tree](https://leetcode.com/tag/tree/)
+
+#### Easy
+
+- ✅ Exercise 104 - Maximum Depth of Binary Tree - [DSA/Tree/Easy/104/104.go](DSA/Tree/Easy/104/104.go)
+- ✅ Exercise 110 - Balanced Binary Tree - [DSA/Tree/Easy/110/110.go](DSA/Tree/Easy/110/110.go)
+- ✅ Exercise 226 - Invert Binary Tree - [DSA/Tree/Easy/226/226.go](DSA/Tree/Easy/226/226.go)
+- ✅ Exercise 543 - Diameter of Binary Tree - [DSA/Tree/Easy/543/543.go](DSA/Tree/Easy/543/543.go)
 
 ---
 
