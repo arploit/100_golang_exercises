@@ -112,7 +112,7 @@ The following exercises have been completed:
 - ✅ Exercise 21 - Problem 21 - [GolangExercise/Advanced_Exercise/21/21.go](GolangExercise/Advanced_Exercise/21/21.go)
 - ✅ Exercise 22 - Problem 22 - [GolangExercise/Advanced_Exercise/22/22.go](GolangExercise/Advanced_Exercise/22/22.go)
 
-## ✅ Overall problems solved: 56 (DSA problems: 47 — Easy: 15, Medium: 25, Hard: 7; Golang exercises: 9)
+## ✅ Overall problems solved: 57 (DSA problems: 48 — Easy: 16, Medium: 25, Hard: 7; Golang exercises: 9)
 
 The DSA collection also includes two linked-list implementation exercises: a singly linked list implementation and a doubly linked list implementation.
 
@@ -262,6 +262,7 @@ The following exercises have been completed (mapped from files under `DSA/`):
 
 #### Easy
 
+- ✅ Exercise 100 - Same Tree - [DSA/Tree/Easy/100/100.go](DSA/Tree/Easy/100/100.go)
 - ✅ Exercise 104 - Maximum Depth of Binary Tree - [DSA/Tree/Easy/104/104.go](DSA/Tree/Easy/104/104.go)
 - ✅ Exercise 110 - Balanced Binary Tree - [DSA/Tree/Easy/110/110.go](DSA/Tree/Easy/110/110.go)
 - ✅ Exercise 226 - Invert Binary Tree - [DSA/Tree/Easy/226/226.go](DSA/Tree/Easy/226/226.go)
